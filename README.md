@@ -8,3 +8,4 @@
 
 ### post request in Fast API
 
+### PUT & dELETE in FastAPI
